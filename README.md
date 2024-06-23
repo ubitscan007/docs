@@ -4,6 +4,8 @@ description: Welcome to the documentation portal for USC Blockchain
 
 # Summary
 
+<figure><img src=".gitbook/assets/blockscout_logo-634c0f41190d2e1b971052451b4eb136.png" alt=""><figcaption></figcaption></figure>
+
 ![](.gitbook/assets/docs\_1500x500.png)
 
 Welcome to the go-to portal for in-depth information about the USC Blockchain (USC) platform and ecosystem and how to interact with them!
